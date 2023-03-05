@@ -1,3 +1,3 @@
 # Quadratic Formula
 
-Python with static typing.
+Same algorithm with Python and C.
